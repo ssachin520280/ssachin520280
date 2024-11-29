@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ssachin520280&color=green)
+
 - 👋 Hi, I’m @ssachin520280
 - 👀 I’m interested in frontend development, modern JavaScript frameworks, and building dynamic web applications.
 - 🌱 I’m currently learning more about serverless architectures and refining my skills in Next.js and TypeScript.
